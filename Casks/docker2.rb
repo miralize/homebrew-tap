@@ -15,7 +15,7 @@ cask "docker2" do
   desc "App to build and share containerized applications and microservices"
   homepage "https://www.docker.com/products/docker-desktop"
 
-  auto_updates true
+  auto_updates false
 
   app "Docker.app"
 
